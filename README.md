@@ -1,6 +1,8 @@
 一、使用步骤
 1、数据库初始化
   （1）、根据数据库生成模板进行对数据从进行添加（逐行添加，第一列为监控画面名称，第二列为监控画面的rtsp协议的信息）。
+  ![image](https://github.com/xxxgggmmm666/webVideoSurveillance/assets/150007657/22d80116-ef28-43f6-98e5-5df95e830e10)
+
   （2）、运行数据库初始化.exe程序会生成Monitoring.db的文件，需要和main.exe在同一级目录。
 2、软件运行
   （1）、确保Monitoring.db和main.exe在同一个目录，双击运行main.exe程序。
