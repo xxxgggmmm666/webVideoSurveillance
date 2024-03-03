@@ -1,5 +1,6 @@
 
-![Uploading 02e6c12165feb46e2f82d5491736781.jpg…]()
+
+![02e6c12165feb46e2f82d5491736781](https://github.com/xxxgggmmm666/webVideoSurveillance/assets/150007657/feeb2b69-5363-42af-aa3b-76e94acf18cc)
 
 
 一、使用步骤
